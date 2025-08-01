@@ -67,7 +67,7 @@ Feel free to reach out! [Contact Form](link-to-your-contact-form)
 
 ---  
 
-## 🏆 Evaluation Criteria  
+## 🏆 Evaluation Criteria 
 
 - **Creativity and Ingenuity (20%)**: Original ideas and standout features.  
 - **Code Quality (20%)**: Clean, readable, and efficient code.  
